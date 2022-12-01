@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portofolio-React/static/css/main.40037a34.css",
+    "main.js": "/Portofolio-React/static/js/main.4d946901.js",
+    "static/media/zico.png": "/Portofolio-React/static/media/zico.b9b330c50017f8bf8797.png",
+    "static/media/me.png": "/Portofolio-React/static/media/me.82d7bf45f625bad9d364.png",
+    "static/media/galeri7.jpg": "/Portofolio-React/static/media/galeri7.08747ccaad4c60c05b88.jpg",
+    "static/media/galeri6.jpg": "/Portofolio-React/static/media/galeri6.eaada06407b93b0dc7ba.jpg",
+    "static/media/me-about.jpg": "/Portofolio-React/static/media/me-about.1fc216f6cc3bb45187cb.jpg",
+    "static/media/galeri5.jpg": "/Portofolio-React/static/media/galeri5.77272a227bdca5397906.jpg",
+    "static/media/galeri2.jpg": "/Portofolio-React/static/media/galeri2.804a370bfc9c045e8027.jpg",
+    "static/media/galeri4.jpg": "/Portofolio-React/static/media/galeri4.28a283134378cea26ae2.jpg",
+    "static/media/galeri3.jpg": "/Portofolio-React/static/media/galeri3.80fffa6534c9a56bc5b2.jpg",
+    "static/media/galeri1.jpg": "/Portofolio-React/static/media/galeri1.fa41c016ab1c28d36884.jpg",
+    "static/media/Faiza.jpeg": "/Portofolio-React/static/media/Faiza.b2b18a985c2c9e756eb8.jpeg",
+    "static/media/Ainur.jpeg": "/Portofolio-React/static/media/Ainur.e13e4b12acd1e2c0a7d4.jpeg",
+    "static/media/Atta.jpeg": "/Portofolio-React/static/media/Atta.4c2c69e6968be21cb66f.jpeg",
+    "static/media/Giska.jpeg": "/Portofolio-React/static/media/Giska.e1a4d443c745e439667a.jpeg",
+    "index.html": "/Portofolio-React/index.html",
+    "main.40037a34.css.map": "/Portofolio-React/static/css/main.40037a34.css.map",
+    "main.4d946901.js.map": "/Portofolio-React/static/js/main.4d946901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40037a34.css",
+    "static/js/main.4d946901.js"
+  ]
+}
